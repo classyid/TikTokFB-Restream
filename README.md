@@ -20,7 +20,7 @@
 ## ⚙️ Instalasi
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/tiktokfb-restream
+git clone https://github.com/classyid/tiktokfb-restream
 cd tiktokfb-restream
 ```
 
